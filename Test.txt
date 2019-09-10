@@ -1,2 +1,4 @@
 chao moi nguoi
 hello
+xin chao
+abc
